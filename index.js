@@ -75,12 +75,3 @@ function getImage(url) {
 function  test(){
 
 }
-
-function  test2sss(){
-
-}
-
-
-function  test2ssdsfs(){
-
-}
