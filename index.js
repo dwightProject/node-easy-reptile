@@ -72,6 +72,6 @@ function getImage(url) {
     })
 }
 
-function  test(){
+function  tes2222t(){
 
 }
